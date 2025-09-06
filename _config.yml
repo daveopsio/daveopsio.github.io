@@ -8,6 +8,7 @@ baseurl: "" # leave empty for root domain
 remote_theme: kitian616/jekyll-TeXt-theme
 plugins:
   - jekyll-feed
+text_skin: default
 
 # Author info
 author:
