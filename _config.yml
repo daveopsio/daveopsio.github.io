@@ -1,15 +1,13 @@
 # Site settings
-title: DaveOps
-description: DevOps and developer blog by Dave
+title: DaveOpsIO
+description: DevOps and developer blog by David Charles
 url: "https://daveopsio.dev" 
 baseurl: "" # leave empty for root domain
 
 # Theme settings
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-feed
-text_skin: default
-highlight_skin: default
+- jekyll-remote-theme 
 
 # Author info
 author:
