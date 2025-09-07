@@ -13,9 +13,10 @@ github:
 another_url: https://daveopsio.dev
 
 # Author info
-author:
-  name: David Charles
-  email: daveopsio.cloud@gmail.com
+# Author info
+author: David Charles
+author_email: daveopsio.cloud@gmail.com
+
 
 # Optional: Social links
 social:
