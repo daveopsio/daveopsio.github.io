@@ -20,7 +20,7 @@ This repo powers the site using [GitHub Pages](https://pages.github.com/) and [J
 
 ## 🧑‍💻 Tech Stack
 - **Hosting**: GitHub Pages  
-- **Site Generator**: Jekyll (theme: TeXt)  
+- **Site Generator**: Jekyll (theme: Hacker)  
 - **Domain**: [daveopsio.dev](https://daveopsio.dev)  
 
 ---
