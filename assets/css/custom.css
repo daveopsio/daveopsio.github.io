@@ -15,8 +15,14 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* add some padding to the main content */
-main h1, main h2, main h3, main p , main li{
+/* add some padding to the header and main content */
+header h1,
+header nav a,
+main h1, 
+main h2, 
+main h3, 
+main p, 
+main li {
     padding-left: 10px;
     padding-right: 10px;
 }
