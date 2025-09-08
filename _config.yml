@@ -12,7 +12,10 @@ plugins:
 github:
 another_url: https://daveopsio.dev
 
-# Author info
+#includes
+include:
+  - _pages
+
 # Author info
 author: David Charles
 author_email: daveopsio.cloud@gmail.com
