@@ -15,7 +15,13 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Optional: Center footer text */
+/* add some padding to the main content */
+main h1, main h2, main h3, main p , main li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Footer */
 footer p {
   text-align: center;
   font-size: 0.9em;
