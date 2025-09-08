@@ -1,6 +1,6 @@
 # Site settings
-title: DaveOpsIO
-description: DevOps and developer blog by David Charles
+title: "DaveOpsIO"
+description: "DevOps and developer blog by David Charles"
 url: "https://daveopsio.dev" 
 baseurl: "" # leave empty for root domain
 

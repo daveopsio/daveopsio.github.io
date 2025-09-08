@@ -1,0 +1,23 @@
+/* Custom DaveOpsIO styles */
+
+/* Navigation bar */
+nav {
+  margin: 10px 0;
+}
+
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #39ff14; /* Hacker theme neon green */
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: Center footer text */
+footer p {
+  text-align: center;
+  font-size: 0.9em;
+  color: #aaa;
+}
