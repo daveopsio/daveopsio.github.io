@@ -25,6 +25,18 @@ This repo powers the site using [GitHub Pages](https://pages.github.com/) and [J
 
 ---
 
+## 📝 Notes
+
+This directory contains notes I’m taking during my learning journey.  
+I’ll start with **AWS Cloud Practitioner**, then move on to **AWS Solutions Architect**.  
+
+What lies beyond? Only time will tell!
+
+### Current Topics
+- [AWS](notes/aws/) – foundational cloud concepts and certification prep
+
+---
+
 ## 🔗 Connect
 - [GitHub Profile](https://github.com/daveopsio)  
 - [LinkedIn](https://www.linkedin.com/in/david-alexander-charles/)  
