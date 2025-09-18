@@ -22,7 +22,7 @@
 
 ### 🔍 My Takeaways
 - **Availablity Zones:** Linked data centers that operate in tandem, designed to work together, but in event of failuire do not impact each other.
-- 
+- **Shared Responsibility:** Some security features are your responsibility, while others are AWS' responsibility.  Security *IN* the cloud is yours, while *OFF* Cloud security is handled by AWS.
 - 
 
 ---
